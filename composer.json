@@ -13,6 +13,12 @@
             "email": "grignoli@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sagatechDev/sped-common"
+        }
+    ],
     "autoload": {
         "psr-0": {
             "ForceUTF8\\": "src/"
