@@ -1,5 +1,5 @@
 {
-    "name": "sagatechDev/forceutf8",
+    "name": "neitanod/forceutf8",
     "homepage": "https://github.com/neitanod/forceutf8",
     "license": "BSD-3-Clause",
     "type": "library",
@@ -19,6 +19,9 @@
             "url": "https://github.com/sagatechDev/sped-common"
         }
     ],
+     "require": {
+        "neitanod/forceutf8": "dev-bugfix"
+    }
     "autoload": {
         "psr-0": {
             "ForceUTF8\\": "src/"
